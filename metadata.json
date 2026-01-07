@@ -1,0 +1,5 @@
+{
+  "name": "K-Map Master",
+  "description": "カルノー図（2〜4変数）の学習用インタラクティブツール。真理値表とのリアルタイム同期や、AIによる簡略化の解説機能を搭載。",
+  "requestFramePermissions": []
+}
